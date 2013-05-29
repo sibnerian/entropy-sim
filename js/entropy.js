@@ -42,6 +42,12 @@ function PhysicsBall(x, y, velocity, radius){
     }
 }
 
+function redPhysicsball(x, y, velocity, radius){
+    var ball = new PhysicsBall(x, y, velocity, radius);
+    ball.color = 'red';
+    return ball;
+}
+
 
 function animationStart(){
     var containingDiv = $('<div>').css('width', '500px').css('height', '500px');
