@@ -5,8 +5,9 @@
     <ignored path="entropy-sim.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="44ea6441-2d20-4d73-bfeb-dc5631c318bc" time="1370039561547" ignored="false" />
-    <file path="/entropy.js" changelist="44ea6441-2d20-4d73-bfeb-dc5631c318bc" time="1370039513635" ignored="false" />
+    <file path="/entropy.js" changelist="44ea6441-2d20-4d73-bfeb-dc5631c318bc" time="1370043124830" ignored="false" />
     <file path="/entropy.html" changelist="44ea6441-2d20-4d73-bfeb-dc5631c318bc" time="1369778447037" ignored="false" />
+    <file path="/Dummy.txt" changelist="44ea6441-2d20-4d73-bfeb-dc5631c318bc" time="1370125948090" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
       <file leaf-file-name="entropy.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/entropy.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="193" column="14" selection-start="6465" selection-end="6465" vertical-scroll-proportion="1.8924148">
+            <state line="157" column="78" selection-start="5509" selection-end="5509" vertical-scroll-proportion="1.1391184">
               <folding />
             </state>
           </provider>
@@ -84,16 +85,15 @@
         <option value="$PROJECT_DIR$/js/quilt.js" />
         <option value="$PROJECT_DIR$/entropy.html" />
         <option value="$PROJECT_DIR$/test.html" />
-        <option value="$PROJECT_DIR$/js/entropy.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/entropy.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2560" />
-    <option name="y" value="-328" />
+    <option name="y" value="22" />
     <option name="width" value="2560" />
-    <option name="height" value="1440" />
+    <option name="height" value="874" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -211,13 +211,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2560" y="-328" width="2560" height="1440" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="2560" height="874" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13953489" sideWeight="0.9015151" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13953489" sideWeight="0.9015151" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -381,7 +381,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/entropy.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="193" column="14" selection-start="6465" selection-end="6465" vertical-scroll-proportion="1.8924148">
+        <state line="157" column="78" selection-start="5509" selection-end="5509" vertical-scroll-proportion="1.1391184">
           <folding />
         </state>
       </provider>

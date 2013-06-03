@@ -53,11 +53,11 @@ function entropySim($el){
 
 
     function animationStart(){
-        var containingDiv = $('<div>').css('width', '500px').css('height', '500px');
+        var containingDiv = $('<div>').css('width', '725px').css('height', '500px');
         $el.append(containingDiv);
         var stage = new Kinetic.Stage({
             container: containingDiv[0],
-            width: 500,
+            width: 725,
             height: 500
         });
         var layer = new Kinetic.Layer();
@@ -77,7 +77,7 @@ function entropySim($el){
             x: 20,
             y: 15,
             text: 'Click anywhere to launch a new particle.',
-            fontSize: 20,
+            fontSize: 30,
             fontFamily: 'Calibri',
             fill: 'black'
         });
@@ -146,10 +146,10 @@ function entropySim($el){
         }, layer);
 
         //Make Ball Cluster
-        var clusterRadius=2;
+        var clusterRadius=3;
         for(var x=-clusterRadius; x<=clusterRadius; x++){
             for(var y=-clusterRadius; y<=clusterRadius; y++){
-                balls.push(new PhysicsBall(250+30*x, 250+30*y, new Vector(0,0)));
+                balls.push(new PhysicsBall(stage.getWidth()/2+40*x, stage.getHeight()/2+40*y, new Vector(0,0)));
             }
         }
 
